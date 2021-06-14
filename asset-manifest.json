@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/threejs-react-deploy/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/threejs-react-deploy/static/js/main.e4a7742b.chunk.js",
-    "main.js.map": "/threejs-react-deploy/static/js/main.e4a7742b.chunk.js.map",
+    "main.js": "/threejs-react-deploy/static/js/main.c303887b.chunk.js",
+    "main.js.map": "/threejs-react-deploy/static/js/main.c303887b.chunk.js.map",
     "runtime-main.js": "/threejs-react-deploy/static/js/runtime-main.19a3a8bc.js",
     "runtime-main.js.map": "/threejs-react-deploy/static/js/runtime-main.19a3a8bc.js.map",
     "static/js/2.da674525.chunk.js": "/threejs-react-deploy/static/js/2.da674525.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.19a3a8bc.js",
     "static/js/2.da674525.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.e4a7742b.chunk.js"
+    "static/js/main.c303887b.chunk.js"
   ]
 }
